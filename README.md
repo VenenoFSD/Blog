@@ -10,5 +10,9 @@
 4. [Vue.js 源码构建](https://github.com/VenenoFSD/Blog/issues/4)
 5. [Vue 构造函数](https://github.com/VenenoFSD/Blog/issues/5)
 
+### 二、数据驱动
+
+1. [new Vue 后发生了什么](https://github.com/VenenoFSD/Blog/issues/6)
+
 ## React 源码学习
 (等待更新)
