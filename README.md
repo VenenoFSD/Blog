@@ -12,7 +12,7 @@
 
 ### 二、数据驱动
 
-1. [new Vue 后发生了什么](https://github.com/VenenoFSD/Blog/issues/6)
+1. [从一个小例子开始](https://github.com/VenenoFSD/Blog/issues/6)
 
 ## React 源码学习
 (等待更新)
