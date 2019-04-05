@@ -15,6 +15,8 @@
 1. [从一个小例子开始](https://github.com/VenenoFSD/Blog/issues/6)
 2. [$mount 函数的实现](https://github.com/VenenoFSD/Blog/issues/7)
 3. [_render 函数的实现](https://github.com/VenenoFSD/Blog/issues/8)
+4. [Virtual DOM](https://github.com/VenenoFSD/Blog/issues/9)
+5. [createElement 函数的实现](https://github.com/VenenoFSD/Blog/issues/10)
 
 ## React 源码学习
 (等待更新)
