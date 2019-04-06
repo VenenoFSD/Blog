@@ -17,6 +17,7 @@
 3. [_render 函数的实现](https://github.com/VenenoFSD/Blog/issues/8)
 4. [Virtual DOM](https://github.com/VenenoFSD/Blog/issues/9)
 5. [createElement 函数的实现](https://github.com/VenenoFSD/Blog/issues/10)
+6. [_update 函数的实现](https://github.com/VenenoFSD/Blog/issues/11)
 
 ## React 源码学习
 (等待更新)
