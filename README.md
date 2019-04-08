@@ -18,6 +18,7 @@
 4. [Virtual DOM](https://github.com/VenenoFSD/Blog/issues/9)
 5. [createElement 函数的实现](https://github.com/VenenoFSD/Blog/issues/10)
 6. [_update 函数的实现](https://github.com/VenenoFSD/Blog/issues/11)
+7. [本章小结](https://github.com/VenenoFSD/Blog/issues/12)
 
 ## React 源码学习
 (等待更新)
