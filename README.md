@@ -20,5 +20,9 @@
 6. [_update 函数的实现](https://github.com/VenenoFSD/Blog/issues/11)
 7. [本章小结](https://github.com/VenenoFSD/Blog/issues/12)
 
+### 三、组件化
+
+1. [createComponent](https://github.com/VenenoFSD/Blog/issues/13)
+
 ## React 源码学习
 (等待更新)
