@@ -23,7 +23,7 @@
 ### 三、组件化
 
 1. [createComponent 函数的实现](https://github.com/VenenoFSD/Blog/issues/13)
-2. [patch 函数的实现](https://github.com/VenenoFSD/Blog/issues/14)
+2. [patch 函数对组件 VNode 的处理](https://github.com/VenenoFSD/Blog/issues/14)
 
 ## React 源码学习
 (等待更新)
