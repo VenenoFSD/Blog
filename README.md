@@ -28,7 +28,8 @@
 4. [生命周期](https://github.com/VenenoFSD/Blog/issues/16)
 5. [组件注册](https://github.com/VenenoFSD/Blog/issues/17)
 6. [异步组件](https://github.com/VenenoFSD/Blog/issues/18)
+7. [本章小结](https://github.com/VenenoFSD/Blog/issues/19)
 
 ### 四、响应式原理
 
-1. [响应式对象](https://github.com/VenenoFSD/Blog/issues/19)
+1. [响应式对象](https://github.com/VenenoFSD/Blog/issues/20)
