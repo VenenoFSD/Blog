@@ -28,6 +28,3 @@
 4. [生命周期](https://github.com/VenenoFSD/Blog/issues/16)
 5. [组件注册](https://github.com/VenenoFSD/Blog/issues/17)
 6. [异步组件](https://github.com/VenenoFSD/Blog/issues/18)
-
-## React 源码学习
-(等待更新)
