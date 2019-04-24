@@ -33,3 +33,4 @@
 ### 四、响应式原理
 
 1. [响应式对象](https://github.com/VenenoFSD/Blog/issues/20)
+2. [依赖收集](https://github.com/VenenoFSD/Blog/issues/21)
