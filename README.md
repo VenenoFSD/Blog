@@ -35,3 +35,4 @@
 1. [响应式对象](https://github.com/VenenoFSD/Blog/issues/20)
 2. [收集依赖](https://github.com/VenenoFSD/Blog/issues/21)
 3. [派发更新](https://github.com/VenenoFSD/Blog/issues/22)
+4. [nextTick](https://github.com/VenenoFSD/Blog/issues/23)
