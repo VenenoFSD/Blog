@@ -36,5 +36,5 @@
 2. [收集依赖](https://github.com/VenenoFSD/Blog/issues/21)
 3. [派发更新](https://github.com/VenenoFSD/Blog/issues/22)
 4. [nextTick](https://github.com/VenenoFSD/Blog/issues/23)
-5. [检测不到变化的数据](https://github.com/VenenoFSD/Blog/issues/24)
+5. [响应式原理中的注意事项](https://github.com/VenenoFSD/Blog/issues/24)
 6. [computed 与 watch](https://github.com/VenenoFSD/Blog/issues/25)
