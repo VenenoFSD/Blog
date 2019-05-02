@@ -37,3 +37,4 @@
 3. [派发更新](https://github.com/VenenoFSD/Blog/issues/22)
 4. [nextTick](https://github.com/VenenoFSD/Blog/issues/23)
 5. [检测不到变化的数据](https://github.com/VenenoFSD/Blog/issues/24)
+6. [computed 与 watch](https://github.com/VenenoFSD/Blog/issues/25)
