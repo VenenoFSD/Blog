@@ -41,3 +41,6 @@
 7. [侦听器](https://github.com/VenenoFSD/Blog/issues/26)
 8. [组件更新](https://github.com/VenenoFSD/Blog/issues/27)
 9. [updateChildren 函数的实现](https://github.com/VenenoFSD/Blog/issues/28)
+9. [本章小结](https://github.com/VenenoFSD/Blog/issues/29)
+
+### 五、编译
