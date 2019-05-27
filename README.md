@@ -46,3 +46,4 @@
 ### 五、编译
 
 1. [编译入口](https://github.com/VenenoFSD/Blog/issues/30)
+2. [parse 函数的实现](https://github.com/VenenoFSD/Blog/issues/31)
