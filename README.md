@@ -47,3 +47,4 @@
 
 1. [编译入口](https://github.com/VenenoFSD/Blog/issues/30)
 2. [parse 函数的实现（一）- parseHTML](https://github.com/VenenoFSD/Blog/issues/31)
+3. [parse 函数的实现（二）- 生成 AST](https://github.com/VenenoFSD/Blog/issues/32)
