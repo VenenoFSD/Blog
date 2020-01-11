@@ -61,10 +61,15 @@
 6. [js 事件相关](https://github.com/VenenoFSD/Blog/issues/39)
 7. [简单理解 js 闭包](https://github.com/VenenoFSD/Blog/issues/40)
 8. [ES8 – async](https://github.com/VenenoFSD/Blog/issues/41)
+9. [ES6 – generator](https://github.com/VenenoFSD/Blog/issues/42)
+10. [判断对象是否为数组](https://github.com/VenenoFSD/Blog/issues/43)
+11. [函数防抖与函数节流](https://github.com/VenenoFSD/Blog/issues/46)
 
 #### 二、CSS
 
 1. [CSS3 animation – steps 函数详解](https://github.com/VenenoFSD/Blog/issues/36)
+2. [BFC 深入理解](https://github.com/VenenoFSD/Blog/issues/44)
+3. [CSS 自定义浏览器滚动条](https://github.com/VenenoFSD/Blog/issues/45)
 
 #### 三、算法
 
