@@ -51,6 +51,16 @@
 
 ## 前端博客（从个人网站迁移至此处）
 
-#### 一、JavaScript 相关
+#### 一、JavaScript
 
 1. [HTML5 – 拖放](https://github.com/VenenoFSD/Blog/issues/32)
+2. [观察者模式与发布订阅模式](https://github.com/VenenoFSD/Blog/issues/33)
+3. [for in 与 for of](https://github.com/VenenoFSD/Blog/issues/34)
+
+#### 二、CSS
+
+1. [CSS3 animation – steps 函数详解](https://github.com/VenenoFSD/Blog/issues/36)
+
+#### 三、算法
+
+1. [丑数求解](https://github.com/VenenoFSD/Blog/issues/35)
