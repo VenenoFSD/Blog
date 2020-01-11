@@ -56,6 +56,11 @@
 1. [HTML5 – 拖放](https://github.com/VenenoFSD/Blog/issues/32)
 2. [观察者模式与发布订阅模式](https://github.com/VenenoFSD/Blog/issues/33)
 3. [for in 与 for of](https://github.com/VenenoFSD/Blog/issues/34)
+4. [拷贝对象与数组](https://github.com/VenenoFSD/Blog/issues/37)
+5. [js 对象的构造，原型与继承](https://github.com/VenenoFSD/Blog/issues/38)
+6. [js 事件相关](https://github.com/VenenoFSD/Blog/issues/39)
+7. [简单理解 js 闭包](https://github.com/VenenoFSD/Blog/issues/40)
+8. [ES8 – async](https://github.com/VenenoFSD/Blog/issues/41)
 
 #### 二、CSS
 
